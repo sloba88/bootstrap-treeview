@@ -19,10 +19,7 @@
       "url": "https://github.com/jonmiles/bootstrap-treeview/blob/master/LICENSE"
     }
   ],
-  "main": [
-    "dist/bootstrap-treeview.min.js",
-    "dist/bootstrap-treeview.min.css"
-  ],
+  "main": "dist/bootstrap-treeview.min.js",
   "scripts": {
     "start": "node app",
     "test": "grunt test"
